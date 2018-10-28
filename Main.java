@@ -12,7 +12,7 @@ public class Main {
            System.out.println("Dime un numero");
            nums[i] = teclado.nextInt();
        }
-       Arrays.sort(nums);
+       Arrays.sort(nums); //hola
        System.out.println("El més petit és "+nums[0]+" i el més gran "+nums[nums.length]));
    }
 }
